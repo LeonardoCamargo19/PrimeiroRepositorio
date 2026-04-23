@@ -1,0 +1,32 @@
+body {
+    background-color: #9debeb;
+}
+
+.destaque{
+    color: #a52a2a;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+a[href="https://www.linkedin.com/in/leonardo-di-camargo-rodrigues-2b9888238/"]{
+    background-color: rgb(191, 191, 226);
+}
+
+a:hover{
+    color: red;
+}
+
+#t1 {
+    font-family: cursive;
+    font-style: oblique;
+}
+
+
+.saira-stencil-fonte {
+  font-family: "Saira Stencil", sans-serif;
+  font-optical-sizing: none;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 700;
+}
